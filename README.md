@@ -1,4 +1,4 @@
-<h3 align="center">A young passionate web developer</h3>
+<h3 align="center">Alexis Carangeot, développeur web passioné</h3>
 
 - 👨‍💻 Passez voir mon portfolio [www.acarangeot.fr](www.acarangeot.fr)
 
