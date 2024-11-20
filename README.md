@@ -1,6 +1,4 @@
-<h3 align="center">Alexis Carangeot, développeur web passioné</h3>
-
-- 👨‍💻 Passez voir mon portfolio [www.acarangeot.fr](www.acarangeot.fr)
+<h3 align="center">Alexis Carangeot, développeur web et mobile</h3>
 
 - 📫 Comment me contacter ? **carangeotalexis@gmail.com**
 
